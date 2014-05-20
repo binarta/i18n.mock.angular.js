@@ -1,6 +1,6 @@
-# i18n.angular.js
+# i18n.mock.angular.js
 
-[AngularJS](http://angularjs.org/) module for text management based on the [Binarta](http://binarta.com/) platform.
+[AngularJS](http://angularjs.org/) module i18n mocks.
 
 ## Copyright and license
 
